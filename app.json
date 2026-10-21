@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "ChronoWear Pomodoro",
+    "slug": "wearos-pomodoro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "wearospomodoro",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.lokiyo.wearospomodoro"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

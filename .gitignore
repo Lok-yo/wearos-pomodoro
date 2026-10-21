@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+web-build/
+android/app/build/
+android/build/
+android/.gradle/
+android/.kotlin/
+android/local.properties
+*.apk
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.DS_Store
